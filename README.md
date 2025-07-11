@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bhavanishwarya
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning JS
 - 📫 LinkedIn : www.linkedin.com/in/bhavanishwarya-y-1a3991272
 - 😄 Pronouns: Bhavana
 
